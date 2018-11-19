@@ -8,5 +8,6 @@ public class PanoSceneIsvApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(PanoSceneIsvApplication.class, args);
+        // 修改测试
     }
 }
